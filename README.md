@@ -6,7 +6,7 @@ branch. Curation means applying patches to the raw data and re-generating the
 only contain IDL names targeted at browsers.
 
 The curated data is published on [GitHub Pages](https://w3c.github.io/webref/ed/).
-Main entry points are the following JSON files:
+Main [entry](https://www.w3.org/users/157550/) points are the following JSON files:
 
 - The curated data index: [`index.json`](https://w3c.github.io/webref/ed/index.json)
 - The index of IDL names: [`idlnames.json`](https://w3c.github.io/webref/ed/idlnames.json)
